@@ -30,7 +30,7 @@ font-family: 'Poppins',sans-serif;
   color: rgb(255, 200, 0);
 }
 .hero{
-    background: url('../assets/mainfood.jpg') center/cover no-repeat;
+    background: url('mainfood.jpg') center/cover no-repeat;
     height: 400px;
     width: 100%;
     display: flex;
@@ -199,4 +199,5 @@ footer .social-icons a {
 footer .social-icons a:hover {
   color: #ffcc00; 
 }
+
 
